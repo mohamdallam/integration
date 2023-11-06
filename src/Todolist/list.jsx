@@ -98,13 +98,6 @@ const Todolist = () => {
               >
                 x
               </span>
-              {/* <span
-                className="edit-btn"
-                onClick={() => handleEdit(todo)}
-                title="edit"
-              >
-                ↻
-              </span> */}
             </div>
           </div>
         ))}
